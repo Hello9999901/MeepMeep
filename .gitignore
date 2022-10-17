@@ -58,3 +58,4 @@ build
 
 # IntelliJ
 out/
+local.properties
